@@ -79,7 +79,7 @@
 [![ASUS](https://img.shields.io/badge/asus-000000?style=for-the-badge&logo=asus&logoColor=white)](https://zh.wikipedia.org/wiki/%E8%8F%AF%E7%A2%A9)
 
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://zh.wikipedia.org/wiki/%E8%8B%B1%E4%BC%9F%E8%BE%BE)
-[![NVIDIA](https://img.shields.io/badge/acer-MX150-83B81A?style=for-the-badge&logo=acer&logoColor=white)](https://zh.wikipedia.org/wiki/%E8%8B%B1%E4%BC%9F%E8%BE%BE)
+[![NVIDIA](https://img.shields.io/badge/NVIDIA-MX150-83B81A?style=for-the-badge&logo=acer&logoColor=white)](https://zh.wikipedia.org/wiki/%E8%8B%B1%E4%BC%9F%E8%BE%BE)
 
 ## 💻 **Terminal | 終端：**
 [![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://zh.wikipedia.org/wiki/PowerShell)
