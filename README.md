@@ -104,8 +104,6 @@
 ### 🚪 **Github Visits | Github 訪問人數:**
 ![Visitor Count](https://profile-counter.glitch.me/{Fantasywings123}/count.svg)
 
-<img width="20%" src="https://media.tenor.com/KqYfFFsT8rcAAAAC/%E6%8E%A8%E3%81%97%E3%81%AE%E5%AD%90-hoshino-ai.gif" />
-<img width="20%" src="https://media.tenor.com/KqYfFFsT8rcAAAAC/%E6%8E%A8%E3%81%97%E3%81%AE%E5%AD%90-hoshino-ai.gif" />
-<img width="20%" src="https://media.tenor.com/KqYfFFsT8rcAAAAC/%E6%8E%A8%E3%81%97%E3%81%AE%E5%AD%90-hoshino-ai.gif" />
+<img width="20%" src="https://media.tenor.com/KqYfFFsT8rcAAAAC/%E6%8E%A8%E3%81%97%E3%81%AE%E5%AD%90-hoshino-ai.gif" /> <img width="20%" src="https://media.tenor.com/KqYfFFsT8rcAAAAC/%E6%8E%A8%E3%81%97%E3%81%AE%E5%AD%90-hoshino-ai.gif" /> <img width="20%" src="https://media.tenor.com/KqYfFFsT8rcAAAAC/%E6%8E%A8%E3%81%97%E3%81%AE%E5%AD%90-hoshino-ai.gif" />
 
 ##### 📆 **Last Updated | 最後更新日期：2023/06/18**
