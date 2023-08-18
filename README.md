@@ -91,7 +91,7 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://zh.wikipedia.org/wiki/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://zh.wikipedia.org/wiki/Javascript)
 
-> [![System-Information-Overview](https://github-readme-stats.vercel.app/api/pin/?username=Fantasywings123&repo=System-Information-Overview&show_icons=true&bg_color=001529&title_color=88deb0&text_color=f7f6fb&icon_color=ffdd02&count_private=true&border_color=fAA61A&border_radius=10)](https://github.com/Fantasywings123/Loading-Effect)  
+> [![System-Information-Overview](https://github-readme-stats.vercel.app/api/pin/?username=Fantasywings123&repo=System-Information-Overview&show_icons=true&bg_color=001529&title_color=88deb0&text_color=f7f6fb&icon_color=ffdd02&count_private=true&border_color=fAA61A&border_radius=10)](https://github.com/Fantasywings123/System-Information-Overview.git)  
 > [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://zh.wikipedia.org/wiki/Python)
 
 ## 📊 **Github Status | Github 狀態：**
