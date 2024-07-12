@@ -20,7 +20,7 @@
 	<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </a>
 <br>
-<a target="_blank" title="白玥バイユエ Github" href="https://github.com/Fantasywings123">
+<a target="_blank" title="白玥バイユエ Github" href="https://github.com/DEVlenient">
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" />
 </a>
 <a target="_blank" title="白玥バイユエ Discord" href="https://discordapp.com/users/975001678350811206">
