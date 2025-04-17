@@ -1,6 +1,6 @@
 ## ☁ **Self introduction | 自我介紹：**
-![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=30&pause=500&width=435&lines=𝒍𝒆𝒏𝒊𝒆𝒏𝒕)
-> 👋 嗨 我是 **𝒍𝒆𝒏𝒊𝒆𝒏𝒕**！<br><br>
+![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=30&pause=500&width=435&lines=虎头鲸)
+> 👋 嗨 我是 **虎头鲸**！<br><br>
 ![Discord Widget](https://discord.c99.nl/widget/theme-3/975001678350811206.png)
 
 ## 🔥 **Projects | 專案示例：**
